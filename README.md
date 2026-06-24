@@ -3,13 +3,11 @@ MATLAB을 이용한 미니 드론 자율비행 및 제어 알고리즘 개발
 
 이 대회는 MATLAB에서 주관하는 미니 드론 자율주행 시뮬레이션 대회로 1차 예선은 시뮬레이션으로 알고리즘을 판단하고 최종 예선 때 직접 임베디드 보드에 우리가 만든 MATLAB Simulink 블록을 코드로 최적화 해 실제 드론으로 테스트하는 대회입니다.
 
-## 자율주행 대회 시뮬레이션 영상
-  
-https://github.com/user-attachments/assets/3f638a3a-c056-4e67-b315-1f4df3dc627d
+## 자율주행 대회 시뮬레이션 영상 - 수빈 알고리즘(일명 와이파이 알고리즘)
 
-## 수빈 알고리즘(일명 와이파이 알고리즘)
+- 화면 좌측 하단 이미지가 현재 수빈 알고리즘이 적용되는 화면입니다.
 
-https://github.com/user-attachments/assets/5abc6973-bf52-4fb4-9277-13d2c1c7cc69
+https://github.com/user-attachments/assets/8b5ca818-4fe1-4890-b392-57bccf60d19c
 
 ## 실행 방법 
 
