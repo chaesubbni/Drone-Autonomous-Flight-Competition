@@ -12,6 +12,7 @@ MATLAB을 이용한 미니 드론 자율비행 및 제어 알고리즘 개발
 
 <img width="519" height="211" alt="image" src="https://github.com/user-attachments/assets/ed4ab815-0468-4b18-9164-ad587a25fc7c" />
 
+<img width="205" height="187" alt="image" src="https://github.com/user-attachments/assets/adb565c8-54bf-4526-91fd-8892890b1b4c" />
 
 ## 자율주행 대회 시뮬레이션 영상 - Subin Algorithm
 
