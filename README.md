@@ -10,7 +10,8 @@ MATLAB을 이용한 미니 드론 자율비행 및 제어 알고리즘 개발
 
 **최종 본선은 부산에서 열리는 IFAC 학회에 출전해 시연하는 단계로 8월 26~27일날 잡혀있습니다.**
 
-<img width="519" height="211" alt="image" src="https://github.com/user-attachments/assets/ed4ab815-0468-4b18-9164-ad587a25fc7c" />
+<img width="206" height="201" alt="image" src="https://github.com/user-attachments/assets/a789463f-418b-4b28-b069-40352c988e35" />
+
 
 
 ## 자율주행 대회 시뮬레이션 영상 - Subin Algorithm
