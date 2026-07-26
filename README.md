@@ -3,7 +3,17 @@ MATLAB을 이용한 미니 드론 자율비행 및 제어 알고리즘 개발
 
 이 대회는 MATLAB에서 주관하는 미니 드론 자율주행 시뮬레이션 대회로 1차 예선은 시뮬레이션으로 알고리즘을 판단하고 최종 예선 때 직접 임베디드 보드에 우리가 만든 MATLAB Simulink 블록을 코드로 최적화 해 실제 드론으로 테스트하는 대회입니다.
 
-## 자율주행 대회 시뮬레이션 영상 - Subin Algorithm (nicknamed the 'Wi-Fi' Algorithm)
+
+### 예선 6등으로 최종 본선 진출
+
+현재 본 대회는 진행 중으로 예선을 6등으로 통과해 최종 본선에 진출했습니다.
+
+**최종 본선은 부산에서 열리는 IFAC 학회에 출전해 시연하는 단계로 8월 26~27일날 잡혀있습니다.**
+
+<img width="519" height="211" alt="image" src="https://github.com/user-attachments/assets/ed4ab815-0468-4b18-9164-ad587a25fc7c" />
+
+
+## 자율주행 대회 시뮬레이션 영상 - Subin Algorithm
 
 - 전체 화면은 드론의 주행 영상이며, 좌측 하단은 Subin Algorithm 이 적용된 드론 카메라 시점의 실시간 화면입니다.
 
