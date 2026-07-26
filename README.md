@@ -10,7 +10,9 @@ MATLAB을 이용한 미니 드론 자율비행 및 제어 알고리즘 개발
 
 **최종 본선은 부산에서 열리는 IFAC 학회에 출전해 시연하는 단계로 8월 26~27일날 잡혀있습니다.**
 
-<img width="206" height="201" alt="image" src="https://github.com/user-attachments/assets/a789463f-418b-4b28-b069-40352c988e35" />
+<img width="1337" height="372" alt="image" src="https://github.com/user-attachments/assets/75b14260-d169-4524-80f5-5c4422e0cddb" />
+
+팀 이름은 이원종으로 원래 초기 팀원이었지만 사정으로 인해 같이 참가할 수 없게된 친구 이름으로 등록해서 우정까지 챙겼습니다.
 
 
 
